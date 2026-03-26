@@ -205,3 +205,65 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+
+
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints
+
+# Data files (optional)
+
+data/
+datasets/
+*.csv
+*.json
+*.zip
+
+# Model files
+
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Logs
+
+logs/
+*.log
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# IDE files
+
+.vscode/
+.idea/
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Output files
+
+outputs/
+results/
+
