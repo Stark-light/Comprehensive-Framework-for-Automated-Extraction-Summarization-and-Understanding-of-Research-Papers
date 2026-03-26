@@ -1,7 +1,11 @@
 
-![Conference](https://img.shields.io/badge/Conference-ICTEM%202.0-blue)
-![Status](https://img.shields.io/badge/Status-Under%20Review-orange)
-![Research](https://img.shields.io/badge/Type-Research%20Paper-green)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Conference-ICTEM%202.0-6C63FF?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Under%20Review-FF9800?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Type-Research%20Paper-00C853?style=for-the-badge&logo=readthedocs&logoColor=white" />
+
+</p>
 
 # A Comprehensive Framework for Automated Extraction, Summarization, and Understanding of Research Papers
 
