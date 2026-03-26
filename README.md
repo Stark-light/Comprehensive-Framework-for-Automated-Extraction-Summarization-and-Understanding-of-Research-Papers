@@ -1,4 +1,10 @@
+<p align="center">
 
+<img src="https://img.shields.io/badge/Conference-ICTEM%202.0-6C63FF?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Under%20Review-FF9800?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Type-Research%20Paper-00C853?style=for-the-badge&logo=readthedocs&logoColor=white" />
+
+</p>
 <div align="center">
   
 # A Comprehensive Framework for Automated Extraction, Summarization, and Understanding of Research Papers
@@ -6,13 +12,7 @@
 <br>
 
 </div>
-<div align="center">
 
-![Conference](https://img.shields.io/badge/Conference-ICTEM%202.0-7C83FD?style=flat&logo=ieee&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Under%20Review-F4A261?style=flat&logo=googlescholar&logoColor=white)
-![Type](https://img.shields.io/badge/Type-Research%20Paper-2A9D8F?style=flat&logo=semanticweb&logoColor=white)
-
-</div>
 ## 📌 Overview
 
 The exponential growth of scientific literature has made it increasingly difficult for researchers, students, and professionals to efficiently analyze and understand research papers. This project proposes a comprehensive framework that automates the extraction, summarization, and semantic understanding of scientific research papers using Natural Language Processing (NLP), deep learning, and transformer-based architectures.
