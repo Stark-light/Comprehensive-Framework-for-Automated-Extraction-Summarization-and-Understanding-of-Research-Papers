@@ -5,15 +5,13 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Conference-ICTEM%202.0-4F46E5?style=for-the-badge&logo=ieee&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Under%20Review-F59E0B?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Type-Research%20Paper-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" />
+<p align="center">
 
-<br><br>
+<img src="https://img.shields.io/badge/ICTEM%202.0-Conference-5B5BD6?style=flat-square&logo=ieee&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Under%20Review-F59E0B?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Type-Research%20Paper-14B8A6?style=flat-square&logo=readthedocs&logoColor=white" />
 
-<img src="https://img.shields.io/badge/LaTeX-IEEE%20Format-008080?style=flat-square&logo=latex&logoColor=white" />
-<img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square&logo=opensourceinitiative&logoColor=white" />
-<img src="https://img.shields.io/badge/Research-AI%20%7C%20Automation-purple?style=flat-square&logo=ai&logoColor=white" />
+</p>
 
 </div>
 
