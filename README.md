@@ -149,12 +149,21 @@ LongT5 and RAG-based approaches achieved the best performance for research paper
 ```
 research-paper/
 │
-├── paper.pdf
-├── README.md
-├── figures/
-├── src/
-├── dataset/
-└── results/
+├── images/
+│   ├── image1.png
+│   ├── image2.png
+│   └── image3.png
+│
+├── research_paper.tex        # Main research paper source file
+├── Original_Research_Paper.pdf  # Final research paper
+├── references.bib            # Bibliography references
+├── IEEEtran.cls              # IEEE format class file
+├── IEEEtran_HOWTO.pdf        # IEEE formatting guidelines
+├── conference_101719.pdf     # Conference template
+├── fig1.png                  # Figure used in paper
+├── README.md                 # Project documentation
+├── LICENSE                   # License file
+└── .gitignore                # Git ignore file
 ```
 
 ## 🎓 Academic Contribution
