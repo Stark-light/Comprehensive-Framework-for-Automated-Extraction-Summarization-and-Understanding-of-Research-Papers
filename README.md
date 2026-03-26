@@ -1,9 +1,10 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Conference-ICTEM%202.0-6C63FF?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Under%20Review-FF9800?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Type-Research%20Paper-00C853?style=for-the-badge&logo=readthedocs&logoColor=white" />
+<img src="https://img.shields.io/badge/Research-Paper-blueviolet?style=for-the-badge&logo=semanticweb&logoColor=white" />
+<img src="https://img.shields.io/badge/Conference-ICTEM%202.0-1E88E5?style=for-the-badge&logo=ieee&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Under%20Review-FF6F00?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX-IEEE%20Format-008080?style=for-the-badge&logo=latex&logoColor=white" />
 
 </p>
 
